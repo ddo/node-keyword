@@ -1,0 +1,16 @@
+{
+  "name": "node-keyword",
+  "version": "0.0.1",
+  "description": "word matching in text",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "git@github.com:ddo/node-keyword.git",
+  "author": "ddo <joeddo89@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^5.2.0"
+  }
+}
